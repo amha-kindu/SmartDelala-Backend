@@ -18,7 +18,7 @@ Framework: .NET Framework
 
 Programming Language: C#
 
-Database: Microsoft SQL Server
+Database: PostgreSQL
 
 AI Integration: TensorFlow.NET
 
